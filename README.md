@@ -32,7 +32,7 @@ This is a FastAPI application for user management, including registration, login
 4. **Run the application:**
 
    ```bash
-   uvicorn main:app --reload
+  uvicorn app.main:app --reload
    ```
 
 5. **Access the application:**
